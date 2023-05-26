@@ -28,6 +28,7 @@ Welcome to my Github page! I am Emil and I am currently finishing my course on I
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.core-origins.com/product/power-bi-for-financial-professionals-course/#iLightbox[]/0"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
