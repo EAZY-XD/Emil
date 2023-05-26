@@ -3,7 +3,7 @@
 ### This is Emil Zimmermann!
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emil-zimmermann-986251224/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Emil.Zimmermann1990@gmail.com)
 
 Welcome to my Github page! I am Emil and I am currently finishing my course on Industry 4.0 at the Smart Industry Campus.!  
